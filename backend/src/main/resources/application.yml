@@ -1,0 +1,27 @@
+server:
+  port: ${SERVER_PORT:8080}
+
+spring:
+  application:
+    name: cognicare-care-api
+  datasource:
+    url: jdbc:sqlite:${JARVIS_DB_PATH:./jarvis-demo.db}
+    driver-class-name: org.sqlite.JDBC
+  jpa:
+    database-platform: org.hibernate.community.dialect.SQLiteDialect
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        format_sql: false
+    open-in-view: false
+
+jarvis:
+  cors:
+    allowed-origins: ${JARVIS_CORS_ORIGINS:http://localhost:5173,http://127.0.0.1:5173}
+
+logging:
+  level:
+    root: INFO
+    com.jarvis: INFO
+

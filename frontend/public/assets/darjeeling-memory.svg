@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Illustrated Darjeeling family trip">
+  <rect width="640" height="420" rx="34" fill="#eef7ff"/>
+  <path d="M0 292 120 162l92 86 78-110 100 118 84-74 166 110v128H0z" fill="#b7d3ef"/>
+  <path d="M0 326 126 214l100 78 76-96 112 108 82-60 144 82v94H0z" fill="#5d8cc5"/>
+  <path d="M86 330c74-34 170-34 246 0 78-31 158-30 222 0v90H86z" fill="#1f7a6d"/>
+  <rect x="92" y="66" width="456" height="252" rx="28" fill="#ffffff" opacity=".92"/>
+  <path d="M154 256h332" stroke="#0f4c81" stroke-width="10" stroke-linecap="round"/>
+  <path d="M184 218c42-54 98-54 140 0 52-76 118-78 172 0" fill="none" stroke="#0f4c81" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="236" cy="168" r="34" fill="#ffd7b5"/>
+  <circle cx="402" cy="168" r="34" fill="#f4c5a1"/>
+  <path d="M196 258c13-55 67-75 112-34 44-41 98-21 112 34" fill="#7a5af8" opacity=".82"/>
+</svg>
+

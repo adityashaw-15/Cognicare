@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Illustrated family photo">
+  <rect width="640" height="420" rx="34" fill="#f7fbff"/>
+  <rect x="36" y="42" width="568" height="336" rx="28" fill="#fff" stroke="#c8d9ee" stroke-width="8"/>
+  <rect x="74" y="74" width="492" height="268" rx="24" fill="#e9f6fb"/>
+  <circle cx="320" cy="142" r="58" fill="#7a5af8" opacity=".22"/>
+  <circle cx="220" cy="170" r="42" fill="#2a9d8f" opacity=".23"/>
+  <circle cx="420" cy="170" r="42" fill="#f4a261" opacity=".28"/>
+  <path d="M150 322c28-72 112-89 170-38 58-51 142-34 170 38" fill="#0f4c81" opacity=".9"/>
+  <circle cx="320" cy="175" r="50" fill="#ffd7b5"/>
+  <circle cx="224" cy="204" r="40" fill="#f2c7a0"/>
+  <circle cx="416" cy="204" r="40" fill="#f7d0ad"/>
+  <path d="M278 168c20-24 62-24 84 0" stroke="#334155" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M192 200c14-18 48-18 64 0M386 200c14-18 48-18 64 0" stroke="#334155" stroke-width="10" fill="none" stroke-linecap="round"/>
+</svg>
+
